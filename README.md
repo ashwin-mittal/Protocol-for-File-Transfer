@@ -51,4 +51,4 @@ Download Status (2gb.txt):
 ```
 
 ## Note
-In the implementation, I am using **12345** as the default port on which the server is listening, but if you want to change, you can change it in the **server.c** file.
+In the implementation, I am using **12345** as the default port on which the server is listening, but if you want to change, you can change it in the **server.cc** file.
